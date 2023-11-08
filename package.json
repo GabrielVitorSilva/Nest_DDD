@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GabrielVitorSilva/Nest_DDD#readme",
   "devDependencies": {
     "@types/node": "^20.9.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
   }
 }
