@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/GabrielVitorSilva/Nest_DDD/issues"
   },
-  "homepage": "https://github.com/GabrielVitorSilva/Nest_DDD#readme"
+  "homepage": "https://github.com/GabrielVitorSilva/Nest_DDD#readme",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
 }
