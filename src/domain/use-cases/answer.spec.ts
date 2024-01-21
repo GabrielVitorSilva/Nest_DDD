@@ -19,5 +19,7 @@ test('create an answer', async () => {
     content: 'Nova resposta'
   })
 
-  expect(answer.content).toEqual('Nova resposta')
+  console.log(answer.getContent());
+  
+  expect(answer.getContent()).toEqual('Nova resposta')
 })
